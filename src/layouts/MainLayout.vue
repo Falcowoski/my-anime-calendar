@@ -12,8 +12,10 @@
         />
 
         <q-toolbar-title>
-          Home
+          {{ $route.name }}
         </q-toolbar-title>
+
+        <q-btn flat round icon="sync" @click="confirmSync" />
 
       </q-toolbar>
     </q-header>
@@ -27,7 +29,9 @@
         <q-item-label
           header
         >
-          Essential Links
+          <span class="text-h6">
+            My Anime Calendar
+          </span>
         </q-item-label>
 
         <EssentialLink
@@ -46,50 +50,22 @@
 
 <script>
 import { defineComponent, ref } from 'vue';
+import { useQuasar } from 'quasar';
+import { useRouter } from 'vue-router';
+
 import EssentialLink from 'components/EssentialLink.vue';
+import animeSeason from '../assets/data/anime_season_2022_fall.json';
 
 const linksList = [
   {
-    title: 'Docs',
-    caption: 'quasar.dev',
-    icon: 'school',
-    link: 'https://quasar.dev',
+    title: 'Home',
+    icon: 'home',
+    link: '/',
   },
   {
-    title: 'Github',
-    caption: 'github.com/quasarframework',
-    icon: 'code',
-    link: 'https://github.com/quasarframework',
-  },
-  {
-    title: 'Discord Chat Channel',
-    caption: 'chat.quasar.dev',
-    icon: 'chat',
-    link: 'https://chat.quasar.dev',
-  },
-  {
-    title: 'Forum',
-    caption: 'forum.quasar.dev',
-    icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev',
-  },
-  {
-    title: 'Twitter',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev',
-  },
-  {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
-    icon: 'public',
-    link: 'https://facebook.quasar.dev',
-  },
-  {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev',
+    title: 'Adicionados',
+    icon: 'notifications',
+    link: '/added',
   },
 ];
 
@@ -101,11 +77,34 @@ export default defineComponent({
   },
 
   setup() {
+    const $q = useQuasar();
+    const router = useRouter();
     const leftDrawerOpen = ref(false);
+
+    function handleSync() {
+      // Save the current anime season in the Client Local Storage
+      const animes = Object.values(animeSeason.data).map((anime) => anime.node);
+      localStorage.setItem('anime_season', JSON.stringify(animes));
+
+      // Refresh page
+      router.go();
+    }
+
+    function confirmSync() {
+      $q.dialog({
+        title: 'Você perderá todos os animes adicionados à sua lista.',
+        message: 'Tem certeza que deseja continuar?',
+        cancel: true,
+        persistent: true,
+      }).onOk(() => {
+        handleSync();
+      });
+    }
 
     return {
       essentialLinks: linksList,
       leftDrawerOpen,
+      confirmSync,
       toggleLeftDrawer() {
         leftDrawerOpen.value = !leftDrawerOpen.value;
       },
