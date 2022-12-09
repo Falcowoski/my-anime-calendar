@@ -83,10 +83,10 @@ export default defineComponent({
 <style lang="scss">
 .container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 168px);
+  grid-template-columns: repeat(auto-fill, 170px);
   justify-content: center;
   gap: 1rem;
-  padding: 18px 14px;
+  padding: 18px 4px;
 }
 
 .container-empty {
