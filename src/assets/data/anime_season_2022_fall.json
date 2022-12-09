@@ -1,0 +1,1955 @@
+{
+    "data": [
+        {
+            "node": {
+                "id": 47917,
+                "title": "Bocchi the Rock!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1448\/127956.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1448\/127956l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 46654,
+                "title": "IDOLiSH7 Third Beat! Part 2",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1458\/125998.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1458\/125998l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53236,
+                "title": "Road of Naruto",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1731\/128787.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1731\/128787l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53273,
+                "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/128920.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/128920l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 41467,
+                "title": "Bleach: Sennen Kessen-hen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/126627.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/126627l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 21,
+                "title": "One Piece",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/73245.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/73245l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50602,
+                "title": "Spy x Family Part 2",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/127508.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/127508l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50172,
+                "title": "Mob Psycho 100 III",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1228\/125011.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1228\/125011l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 44511,
+                "title": "Chainsaw Man",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1806\/126216.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1806\/126216l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 40590,
+                "title": "Utawarerumono: Futari no Hakuoro",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1516\/123280.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1516\/123280l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53396,
+                "title": "THE POLiCY",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1630\/129531.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1630\/129531l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52684,
+                "title": "Shen Yin Wangzuo 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1279\/126735.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1279\/126735l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52976,
+                "title": "Berserk: Ougon Jidai-hen - Memorial Edition",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/127730.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/127730l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53405,
+                "title": "Zanki",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/129568.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/129568l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50663,
+                "title": "Poputepipikku 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1237\/128067.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1237\/128067l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 8687,
+                "title": "Doraemon (2005)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/23935.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/23935l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 30455,
+                "title": "KanColle: Itsuka Ano Umi de",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1996\/128721.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1996\/128721l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50923,
+                "title": "Mushikaburi-hime",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/128714.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/128714l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53670,
+                "title": "Blue Archive: Beautiful Day Dreamer",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1635\/131498.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1635\/131498l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53406,
+                "title": "Kagejitsu!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1014\/129578.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1014\/129578l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48491,
+                "title": "Yama no Susume: Next Summit",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/126897.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/126897l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 1199,
+                "title": "Nintama Rantarou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50281,
+                "title": "Delicious Party\u2661Precure",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/120430.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/120430l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53149,
+                "title": "Gaiken Shijou Shugi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1435\/131396.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1435\/131396l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51986,
+                "title": "Pui Pui Molcar: Driving School",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1382\/125361.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1382\/125361l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52291,
+                "title": "Tiger & Bunny 2 Part 2",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1941\/128060.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1941\/128060l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53235,
+                "title": "One Piece: Dai Tettei Kaibou! Gekitou! 5-nin no Shin Sedai",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1360\/128759.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1360\/128759l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 23539,
+                "title": "Gudetama",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/79996.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/79996l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 1960,
+                "title": "Sore Ike! Anpanman",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/111797.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/111797l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 6149,
+                "title": "Chibi Maruko-chan (1995)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1108\/100604.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1108\/100604l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53525,
+                "title": "Hi-DRIVERS!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1067\/131275.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1067\/131275l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50590,
+                "title": "Koukyuu no Karasu",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1932\/127228.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1932\/127228l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50552,
+                "title": "Yowamushi Pedal: Limit Break",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/131685.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/131685l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51680,
+                "title": "Cool Doji Danshi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1779\/127719.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1779\/127719l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48316,
+                "title": "Kage no Jitsuryokusha ni Naritakute!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/121869.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/121869l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49220,
+                "title": "Isekai Ojisan",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1743\/125204.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1743\/125204l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49979,
+                "title": "Akuyaku Reijou nano de Last Boss wo Kattemimashita",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1648\/126110.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1648\/126110l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52865,
+                "title": "Romantic Killer",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1676\/128173.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1676\/128173l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52193,
+                "title": "Akiba Meido Sensou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1217\/129604.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1217\/129604l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51533,
+                "title": "Tonikaku Kawaii: Seifuku",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/126580.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/126580l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49784,
+                "title": "Mairimashita! Iruma-kun 3rd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1688\/128720.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1688\/128720l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50425,
+                "title": "Fuufu Ijou, Koibito Miman.",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/126442.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/126442l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49891,
+                "title": "Tensei shitara Ken Deshita",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/127909.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/127909l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50710,
+                "title": "Urusei Yatsura (2022)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/129144.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/129144l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49709,
+                "title": "Fumetsu no Anata e 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/127700.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/127700l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49596,
+                "title": "Blue Lock",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1258\/126929.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1258\/126929l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 235,
+                "title": "Detective Conan",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/75199.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/75199l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50528,
+                "title": "Golden Kamuy 4th Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1855\/128059.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1855\/128059l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48542,
+                "title": "Do It Yourself!!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1408\/127129.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1408\/127129l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49828,
+                "title": "Kidou Senshi Gundam: Suisei no Majo",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1440\/127624.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1440\/127624l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50275,
+                "title": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1656\/126446.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1656\/126446l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49918,
+                "title": "Boku no Hero Academia 6th Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/126005.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/126005l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50205,
+                "title": "Arknights: Reimei Zensou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/128406.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/128406l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 966,
+                "title": "Crayon Shin-chan",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/59897.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/59897l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 40351,
+                "title": "Pokemon (2019)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1689\/105554.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1689\/105554l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53640,
+                "title": "Jouzai",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1854\/131329.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1854\/131329l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50559,
+                "title": "Megaton-kyuu Musashi 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/127832.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/127832l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50607,
+                "title": "Yu\u2606Gi\u2606Oh!: Go Rush!!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1556\/122518.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1556\/122518l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49179,
+                "title": "Reiwa no Di Gi Charat",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1343\/124987.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1343\/124987l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 32353,
+                "title": "Bonobono (TV 2016)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/77617.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/77617l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50060,
+                "title": "Shadowverse Flame",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1877\/122972.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1877\/122972l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53599,
+                "title": "Zen: Grogu to Makkuro Kurosuke",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1397\/130985.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1397\/130985l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53402,
+                "title": "Urusei Yatsura x Onitsuka Tiger Collaboration CM",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/129537.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/129537l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 8336,
+                "title": "Hanakappa",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1105\/90503.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1105\/90503l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 7505,
+                "title": "Knyacki!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/55107.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/55107l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53270,
+                "title": "Good Day",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/128916.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/128916l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53581,
+                "title": "In the Back Room",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1156\/130896.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1156\/130896l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53242,
+                "title": "WONDER LiGHT",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1035\/128770.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1035\/128770l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53641,
+                "title": "Dainouteki na Rendezvous",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1311\/131330.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1311\/131330l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53603,
+                "title": "Kidou Senshi Gundam: Suisei no Majo Recap",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1221\/131087.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1221\/131087l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52046,
+                "title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/126652.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/126652l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48365,
+                "title": "Youkai Watch \u266a",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/118273.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/118273l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 4459,
+                "title": "Ojarumaru",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/8519.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/8519l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50538,
+                "title": "Lian Qi Lianle 3000 Nian",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1201\/119940.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1201\/119940l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49877,
+                "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/128238.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/128238l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53131,
+                "title": "Hoshi no Samidare: Zenhan-sen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1340\/128357.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1340\/128357l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50418,
+                "title": "Ninjala (TV)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1552\/119871.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1552\/119871l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 42295,
+                "title": "Fushigi Dagashiya: Zenitendou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1994\/108212.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1994\/108212l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49533,
+                "title": "Uchi no Shishou wa Shippo ga Nai",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1289\/127754.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1289\/127754l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50010,
+                "title": "Meitantei Conan: Hannin no Hanzawa-san",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1560\/125527.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1560\/125527l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52149,
+                "title": "Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/125099.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/125099l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51692,
+                "title": "Yoru wa Neko to Issho",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/124909.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/124909l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50421,
+                "title": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1412\/131063.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1412\/131063l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50638,
+                "title": "Muv-Luv Alternative 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1029\/128722.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1029\/128722l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49515,
+                "title": "Digimon Ghost Game",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1907\/118797.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1907\/118797l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51403,
+                "title": "Renai Flops",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1620\/130589.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1620\/130589l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49849,
+                "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51464,
+                "title": "4-nin wa Sorezore Uso wo Tsuku",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1934\/128719.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1934\/128719l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49304,
+                "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51306,
+                "title": "C Danchi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51128,
+                "title": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1384\/127328.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1384\/127328l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 34566,
+                "title": "Boruto: Naruto Next Generations",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/84460.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/84460l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 2406,
+                "title": "Sazae-san",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51293,
+                "title": "Eternal Boys",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/127107.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/127107l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49163,
+                "title": "Exception",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1889\/128016.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1889\/128016l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53012,
+                "title": "Human Bug Daigaku",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1265\/128725.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1265\/128725l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 43771,
+                "title": "Vazzrock The Animation",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1488\/127334.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1488\/127334l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53595,
+                "title": "Shin Shinka no Mi Gekijou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1839\/130989.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1839\/130989l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53320,
+                "title": "Chickip Dancers 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1869\/129078.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1869\/129078l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53336,
+                "title": "Yukueshirezu",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52463,
+                "title": "Madtoy Chatty",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53498,
+                "title": "Jing Cui Xian Zun Part 2",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1695\/130341.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1695\/130341l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35695,
+                "title": "Keito no Yousei: Knit to Wool",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53477,
+                "title": "Binghuo Mochu 2",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/130753.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/130753l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53394,
+                "title": "Plantopia",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1513\/129443.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1513\/129443l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53355,
+                "title": "Kumo wo Kou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53286,
+                "title": "Shukufuku",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53476,
+                "title": "Jiu Tian Xuan Di Jue 3",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52815,
+                "title": "Ganbare! Choushuu-kun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53530,
+                "title": "Halloween Pajama",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 41458,
+                "title": "Origami Ninja Koyankinte",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 38451,
+                "title": "Reizouko no Tsukenosuke!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53333,
+                "title": "Konkon Beats",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53251,
+                "title": "Fengzi Wuyu: Xian Luo Pian",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1224\/128792.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1224\/128792l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48250,
+                "title": "Pororo Donghwanala",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 38099,
+                "title": "Pakkororin",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1134\/93318.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1134\/93318l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53473,
+                "title": "Wo Zai Xianjie Zheng Jifen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52964,
+                "title": "Sylvanian Families: Freya no Happy Diary",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 34990,
+                "title": "Unicorn no Kyupi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1165\/91319.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1165\/91319l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53635,
+                "title": "Good Lucker",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53220,
+                "title": "Penpe to Pinpi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53662,
+                "title": "Kenkou Takarabune Sukoyaka 7",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1308\/131404.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1308\/131404l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53663,
+                "title": "Find My Color",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53657,
+                "title": "Kirameke! Vivacious Dash\u2661",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1423\/131397.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1423\/131397l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53584,
+                "title": "Okaeri",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53589,
+                "title": "Ruguo Lishi Shi Yiqun Miao 9th Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53327,
+                "title": "Nanjamo no Aibou wa Nanimono nanja!? (Donna Monja TV)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1197\/129096.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1197\/129096l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53226,
+                "title": "Shou Hu Lian Meng ROY6: Senlin Li de Mini Ni",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53795,
+                "title": "Te wo Tsunaide Arukou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/131703.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/131703l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53764,
+                "title": "Akai Fuusen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1622\/131639.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1622\/131639l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53753,
+                "title": "Chiisana Yume",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1397\/131626.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1397\/131626l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53728,
+                "title": "Ashuai 9th Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53391,
+                "title": "Kaiketsu Zorori Movie: Lalala\u266a Star Tanjou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1793\/129419.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1793\/129419l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53491,
+                "title": "Haru ni Nattara Koguma no Yugo Monogatari (Movie)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53560,
+                "title": "Seishun Kippu",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/131269.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/131269l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53639,
+                "title": "Fire Emblem Heroes: Askr Oukoku Teiten Camera (Eir no 1-nichi)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53618,
+                "title": "Wan Jie Zhizun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52076,
+                "title": "Akikan no Tuna",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1012\/124452.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1012\/124452l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53645,
+                "title": "Suki da",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53408,
+                "title": "I Love Me 2nd Season"
+            }
+        },
+        {
+            "node": {
+                "id": 52066,
+                "title": "Recola",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1564\/124424.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1564\/124424l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53244,
+                "title": "Welcome to Rainbow Wonderland!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1606\/128776.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1606\/128776l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53649,
+                "title": "Rat a Tat Writer",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1903\/131370.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1903\/131370l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50445,
+                "title": "San Ti",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1192\/130114.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1192\/130114l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35698,
+                "title": "Oidon to",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52421,
+                "title": "Roly Poly Peoples",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53766,
+                "title": "Jantama Pong\u2606 Special",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50315,
+                "title": "Nanatsu no Taizai: Ensa no Edinburgh",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1023\/128555.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1023\/128555l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 10506,
+                "title": "Shiawase Haitatsu Taneko",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50406,
+                "title": "Yuan Long 3rd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49851,
+                "title": "Joshikousei to Mahou no Note",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 30151,
+                "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 42870,
+                "title": "Uchuu Nanchara Kotetsu-kun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49835,
+                "title": "Kimi wo Aishita Hitori no Boku e",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49834,
+                "title": "Boku ga Aishita Subete no Kimi e",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1145\/127594.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1145\/127594l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50522,
+                "title": "Teikou Penguin",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1018\/119890.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1018\/119890l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52980,
+                "title": "Kame no Koura wa Abarabone",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 44233,
+                "title": "Yinhe Zhi Xin",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 45649,
+                "title": "The First Slam Dunk",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 37096,
+                "title": "Puzzle & Dragon",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51772,
+                "title": "Umayuru",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52186,
+                "title": "Kin no Kuni Mizu no Kuni",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53414,
+                "title": "Lupin Zero",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52289,
+                "title": "Kanojo, Okarishimasu 2nd Season Mini Anime",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52601,
+                "title": "Onna no Sono no Hoshi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51116,
+                "title": "Kagami no Kojou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53672,
+                "title": "Violet Evergarden: Recollections",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50403,
+                "title": "Liang Bu Yi 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1385\/119524.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1385\/119524l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 48442,
+                "title": "Shikaru Neko",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/113384.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/113384l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49154,
+                "title": "High Card",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1803\/131345.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1803\/131345l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53011,
+                "title": "Mamekichi Mameko NEET no Nichijou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51155,
+                "title": "Cap Kakumei Bottleman DX",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50446,
+                "title": "Changye Kaita Zhe",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/130635.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/130635l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 30119,
+                "title": "Yowamushi Monsters",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72127.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72127l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51307,
+                "title": "Bokura no Yoake",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1411\/127593.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1411\/127593l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53619,
+                "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu Mini Anime",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 29375,
+                "title": "Robot Pulta",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/70637.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/70637l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50432,
+                "title": "Wuxian Shijie",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/119594.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/119594l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51769,
+                "title": "Xingchen Bian 5th Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1593\/126730.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1593\/126730l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35372,
+                "title": "Otoppe",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 29421,
+                "title": "Liv & Bell",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/70717.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/70717l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35696,
+                "title": "Konigiri-kun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/86112.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/86112l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 22669,
+                "title": "Gohan Kaijuu Pap",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52198,
+                "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51549,
+                "title": "Xue Yu Xin",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/122422.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/122422l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 35694,
+                "title": "Kirin the Noop",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86110.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86110l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50240,
+                "title": "Da Li Si Rizhi 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51390,
+                "title": "Xing Yu Siwan Nian",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 18941,
+                "title": "Shimajirou no Wow!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49750,
+                "title": "Juedai Shuang Jiao",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1755\/130637.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1755\/130637l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 38776,
+                "title": "Manul no Yuube",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1980\/96936.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1980\/96936l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 29427,
+                "title": "Mori no Ratio",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/70899.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/8\/70899l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52949,
+                "title": "Bai Lian Cheng Shen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/131511.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/131511l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52460,
+                "title": "Duel Masters Win",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52935,
+                "title": "Punirunes",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1246\/128731.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1246\/128731l.jpg"
+                }
+            }
+        }
+    ],
+    "paging": {},
+    "season": {
+        "year": 2022,
+        "season": "fall"
+    }
+}
