@@ -7,6 +7,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1448\/127956.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1448\/127956l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -17,6 +21,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1458\/125998.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1458\/125998l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "22:30"
                 }
             }
         },
@@ -47,6 +55,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/126627.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1764\/126627l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -57,6 +69,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/73245.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/73245l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "09:30"
                 }
             }
         },
@@ -67,6 +83,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/127508.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1111\/127508l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "23:00"
                 }
             }
         },
@@ -77,6 +97,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1228\/125011.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1228\/125011l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -87,6 +111,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1806\/126216.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1806\/126216l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -97,6 +125,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1516\/123280.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1516\/123280l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "01:00"
                 }
             }
         },
@@ -127,6 +159,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/127730.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1607\/127730l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "00:30"
                 }
             }
         },
@@ -147,6 +183,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1237\/128067.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1237\/128067l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "01:30"
                 }
             }
         },
@@ -157,6 +197,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/23935.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/23935l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "19:00"
                 }
             }
         },
@@ -167,6 +211,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1996\/128721.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1996\/128721l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "00:30"
                 }
             }
         },
@@ -177,6 +225,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/128714.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/128714l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "21:00"
                 }
             }
         },
@@ -207,16 +259,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/126897.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1942\/126897l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 1199,
-                "title": "Nintama Rantarou",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "00:30"
                 }
             }
         },
@@ -227,6 +273,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/120430.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/120430l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "08:30"
                 }
             }
         },
@@ -242,11 +292,29 @@
         },
         {
             "node": {
+                "id": 1199,
+                "title": "Nintama Rantarou",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/74028l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other",
+                    "start_time": "18:10"
+                }
+            }
+        },
+        {
+            "node": {
                 "id": 51986,
                 "title": "Pui Pui Molcar: Driving School",
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1382\/125361.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1382\/125361l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "07:00"
                 }
             }
         },
@@ -277,6 +345,9 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/79996.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/79996l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
                 }
             }
         },
@@ -287,6 +358,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/111797.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1902\/111797l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "16:20"
                 }
             }
         },
@@ -297,6 +372,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1108\/100604.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1108\/100604l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "18:00"
                 }
             }
         },
@@ -317,6 +396,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1932\/127228.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1932\/127228l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "23:30"
                 }
             }
         },
@@ -327,6 +410,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/131685.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/131685l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -337,6 +424,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1779\/127719.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1779\/127719l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "01:30"
                 }
             }
         },
@@ -347,6 +438,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/121869.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1874\/121869l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "22:30"
                 }
             }
         },
@@ -357,6 +452,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1743\/125204.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1743\/125204l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "22:00"
                 }
             }
         },
@@ -367,6 +466,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1648\/126110.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1648\/126110l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "22:30"
                 }
             }
         },
@@ -387,6 +490,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1217\/129604.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1217\/129604l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -407,6 +514,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1688\/128720.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1688\/128720l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "18:25"
                 }
             }
         },
@@ -417,6 +528,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/126442.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1713\/126442l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "22:00"
                 }
             }
         },
@@ -427,6 +542,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/127909.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1191\/127909l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "23:00"
                 }
             }
         },
@@ -437,6 +556,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/129144.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1233\/129144l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "00:55"
                 }
             }
         },
@@ -447,6 +570,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/127700.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1271\/127700l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "19:00"
                 }
             }
         },
@@ -457,6 +584,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1258\/126929.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1258\/126929l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "01:30"
                 }
             }
         },
@@ -467,6 +598,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/75199.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/7\/75199l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "18:00"
                 }
             }
         },
@@ -477,6 +612,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1855\/128059.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1855\/128059l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "23:00"
                 }
             }
         },
@@ -487,6 +626,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1408\/127129.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1408\/127129l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "00:00"
                 }
             }
         },
@@ -497,6 +640,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1440\/127624.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1440\/127624l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "17:00"
                 }
             }
         },
@@ -517,6 +664,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/126005.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1483\/126005l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "17:30"
                 }
             }
         },
@@ -527,6 +678,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/128406.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1644\/128406l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "01:23"
                 }
             }
         },
@@ -537,6 +692,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/59897.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/10\/59897l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "19:30"
                 }
             }
         },
@@ -547,6 +706,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1689\/105554.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1689\/105554l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "18:55"
                 }
             }
         },
@@ -567,6 +730,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/127832.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/127832l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "22:00"
                 }
             }
         },
@@ -577,6 +744,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1556\/122518.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1556\/122518l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "07:30"
                 }
             }
         },
@@ -587,6 +758,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1343\/124987.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1343\/124987l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "23:00"
                 }
             }
         },
@@ -597,6 +772,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/77617.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/77617l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "04:52"
                 }
             }
         },
@@ -607,6 +786,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1877\/122972.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1877\/122972l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "09:30"
                 }
             }
         },
@@ -637,6 +820,9 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1105\/90503.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1105\/90503l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
                 }
             }
         },
@@ -707,6 +893,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/126652.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1084\/126652l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "22:00"
                 }
             }
         },
@@ -727,6 +917,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/8519.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/8519l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other",
+                    "start_time": "18:10"
                 }
             }
         },
@@ -767,6 +961,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1552\/119871.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1552\/119871l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "10:00"
                 }
             }
         },
@@ -777,6 +975,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1994\/108212.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1994\/108212l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "18:45"
                 }
             }
         },
@@ -787,6 +989,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1289\/127754.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1289\/127754l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "friday",
+                    "start_time": "22:30"
                 }
             }
         },
@@ -797,6 +1003,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1560\/125527.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1560\/125527l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "01:05"
                 }
             }
         },
@@ -817,6 +1027,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/124909.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1969\/124909l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "01:00"
                 }
             }
         },
@@ -837,6 +1051,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1029\/128722.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1029\/128722l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "00:55"
                 }
             }
         },
@@ -847,6 +1065,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1907\/118797.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1907\/118797l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "09:00"
                 }
             }
         },
@@ -857,16 +1079,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1620\/130589.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1620\/130589l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 49849,
-                "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "21:00"
                 }
             }
         },
@@ -877,26 +1093,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1934\/128719.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1934\/128719l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 49304,
-                "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 51306,
-                "title": "C Danchi",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "02:00"
                 }
             }
         },
@@ -907,6 +1107,52 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1384\/127328.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1384\/127328l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "22:00"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49304,
+                "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1637\/123397l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "saturday",
+                    "start_time": "01:25"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49849,
+                "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1993\/125560l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "21:00"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51306,
+                "title": "C Danchi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1378\/121573l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "13:00"
                 }
             }
         },
@@ -917,16 +1163,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/84460.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/84460l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 2406,
-                "title": "Sazae-san",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "17:30"
                 }
             }
         },
@@ -937,6 +1177,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/127107.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1665\/127107l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "02:20"
                 }
             }
         },
@@ -957,6 +1201,24 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1265\/128725.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1265\/128725l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "22:00"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 2406,
+                "title": "Sazae-san",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1008\/98996l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "18:30"
                 }
             }
         },
@@ -967,6 +1229,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1488\/127334.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1488\/127334l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "22:30"
                 }
             }
         },
@@ -987,26 +1253,40 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1869\/129078.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1869\/129078l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "08:45"
                 }
             }
         },
         {
             "node": {
-                "id": 53336,
-                "title": "Yukueshirezu",
+                "id": 53355,
+                "title": "Kumo wo Kou",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 52463,
-                "title": "Madtoy Chatty",
+                "id": 53333,
+                "title": "Konkon Beats",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52421,
+                "title": "Roly Poly Peoples",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505l.jpg"
                 }
             }
         },
@@ -1022,11 +1302,25 @@
         },
         {
             "node": {
-                "id": 35695,
-                "title": "Keito no Yousei: Knit to Wool",
+                "id": 52463,
+                "title": "Madtoy Chatty",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125603l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "02:34"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53336,
+                "title": "Yukueshirezu",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1181\/129108l.jpg"
                 }
             }
         },
@@ -1052,86 +1346,6 @@
         },
         {
             "node": {
-                "id": 53355,
-                "title": "Kumo wo Kou",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1270\/129160l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53286,
-                "title": "Shukufuku",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53476,
-                "title": "Jiu Tian Xuan Di Jue 3",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 52815,
-                "title": "Ganbare! Choushuu-kun",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53530,
-                "title": "Halloween Pajama",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 41458,
-                "title": "Origami Ninja Koyankinte",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 38451,
-                "title": "Reizouko no Tsukenosuke!",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53333,
-                "title": "Konkon Beats",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1682\/129105l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
                 "id": 53251,
                 "title": "Fengzi Wuyu: Xian Luo Pian",
                 "main_picture": {
@@ -1142,11 +1356,28 @@
         },
         {
             "node": {
-                "id": 48250,
-                "title": "Pororo Donghwanala",
+                "id": 52964,
+                "title": "Sylvanian Families: Freya no Happy Diary",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 38451,
+                "title": "Reizouko no Tsukenosuke!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1884\/95217l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "07:05"
                 }
             }
         },
@@ -1157,26 +1388,10 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1134\/93318.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1134\/93318l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53473,
-                "title": "Wo Zai Xianjie Zheng Jifen",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 52964,
-                "title": "Sylvanian Families: Freya no Happy Diary",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1147\/127704l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other",
+                    "start_time": "08:24"
                 }
             }
         },
@@ -1192,21 +1407,99 @@
         },
         {
             "node": {
-                "id": 53635,
-                "title": "Good Lucker",
+                "id": 35695,
+                "title": "Keito no Yousei: Knit to Wool",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/86111l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 53220,
-                "title": "Penpe to Pinpi",
+                "id": 48250,
+                "title": "Pororo Donghwanala",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1465\/114524l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 41458,
+                "title": "Origami Ninja Koyankinte",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1860\/106477l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "tuesday",
+                    "start_time": "07:30"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53473,
+                "title": "Wo Zai Xianjie Zheng Jifen",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1659\/130033l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52815,
+                "title": "Ganbare! Choushuu-kun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1592\/127118l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "10:15"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53476,
+                "title": "Jiu Tian Xuan Di Jue 3",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1770\/130040l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53530,
+                "title": "Halloween Pajama",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1601\/130587l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53286,
+                "title": "Shukufuku",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1636\/129143l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53618,
+                "title": "Wan Jie Zhizun",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166l.jpg"
                 }
             }
         },
@@ -1222,11 +1515,21 @@
         },
         {
             "node": {
-                "id": 53663,
-                "title": "Find My Color",
+                "id": 53589,
+                "title": "Ruguo Lishi Shi Yiqun Miao 9th Season",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53220,
+                "title": "Penpe to Pinpi",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1141\/130418l.jpg"
                 }
             }
         },
@@ -1242,21 +1545,11 @@
         },
         {
             "node": {
-                "id": 53584,
-                "title": "Okaeri",
+                "id": 53663,
+                "title": "Find My Color",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53589,
-                "title": "Ruguo Lishi Shi Yiqun Miao 9th Season",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1487\/130947l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1565\/131406l.jpg"
                 }
             }
         },
@@ -1272,11 +1565,11 @@
         },
         {
             "node": {
-                "id": 53226,
-                "title": "Shou Hu Lian Meng ROY6: Senlin Li de Mini Ni",
+                "id": 53728,
+                "title": "Ashuai 9th Season",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569l.jpg"
                 }
             }
         },
@@ -1287,6 +1580,16 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/131703.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1331\/131703l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53226,
+                "title": "Shou Hu Lian Meng ROY6: Senlin Li de Mini Ni",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1042\/131664l.jpg"
                 }
             }
         },
@@ -1312,11 +1615,11 @@
         },
         {
             "node": {
-                "id": 53728,
-                "title": "Ashuai 9th Season",
+                "id": 53584,
+                "title": "Okaeri",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1476\/131569l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1093\/130920l.jpg"
                 }
             }
         },
@@ -1332,11 +1635,11 @@
         },
         {
             "node": {
-                "id": 53491,
-                "title": "Haru ni Nattara Koguma no Yugo Monogatari (Movie)",
+                "id": 53639,
+                "title": "Fire Emblem Heroes: Askr Oukoku Teiten Camera (Eir no 1-nichi)",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328l.jpg"
                 }
             }
         },
@@ -1352,21 +1655,11 @@
         },
         {
             "node": {
-                "id": 53639,
-                "title": "Fire Emblem Heroes: Askr Oukoku Teiten Camera (Eir no 1-nichi)",
+                "id": 35698,
+                "title": "Oidon to",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1661\/131328l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53618,
-                "title": "Wan Jie Zhizun",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1027\/131166l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114l.jpg"
                 }
             }
         },
@@ -1382,27 +1675,34 @@
         },
         {
             "node": {
-                "id": 53645,
-                "title": "Suki da",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53408,
-                "title": "I Love Me 2nd Season"
-            }
-        },
-        {
-            "node": {
                 "id": 52066,
                 "title": "Recola",
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1564\/124424.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1564\/124424l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53635,
+                "title": "Good Lucker",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1207\/131332l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53491,
+                "title": "Haru ni Nattara Koguma no Yugo Monogatari (Movie)",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1333\/130201l.jpg"
                 }
             }
         },
@@ -1438,31 +1738,72 @@
         },
         {
             "node": {
-                "id": 35698,
-                "title": "Oidon to",
+                "id": 53645,
+                "title": "Suki da",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/86114l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1447\/131361l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 52421,
-                "title": "Roly Poly Peoples",
+                "id": 35372,
+                "title": "Otoppe",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1292\/125505l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "08:40"
                 }
             }
         },
         {
             "node": {
-                "id": 53766,
-                "title": "Jantama Pong\u2606 Special",
+                "id": 42870,
+                "title": "Uchuu Nanchara Kotetsu-kun",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "thursday",
+                    "start_time": "18:40"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 49835,
+                "title": "Kimi wo Aishita Hitori no Boku e",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 10506,
+                "title": "Shiawase Haitatsu Taneko",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 53414,
+                "title": "Lupin Zero",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565l.jpg"
                 }
             }
         },
@@ -1478,61 +1819,45 @@
         },
         {
             "node": {
-                "id": 10506,
-                "title": "Shiawase Haitatsu Taneko",
+                "id": 44233,
+                "title": "Yinhe Zhi Xin",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/2\/28900l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 50406,
-                "title": "Yuan Long 3rd Season",
+                "id": 52980,
+                "title": "Kame no Koura wa Abarabone",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 49851,
-                "title": "Joshikousei to Mahou no Note",
+                "id": 51155,
+                "title": "Cap Kakumei Bottleman DX",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "09:30"
                 }
             }
         },
         {
             "node": {
-                "id": 30151,
-                "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+                "id": 53011,
+                "title": "Mamekichi Mameko NEET no Nichijou",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 42870,
-                "title": "Uchuu Nanchara Kotetsu-kun",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1226\/112286l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 49835,
-                "title": "Kimi wo Aishita Hitori no Boku e",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1332\/127596l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864l.jpg"
                 }
             }
         },
@@ -1553,116 +1878,30 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1018\/119890.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1018\/119890l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "wednesday",
+                    "start_time": "07:30"
                 }
             }
         },
         {
             "node": {
-                "id": 52980,
-                "title": "Kame no Koura wa Abarabone",
+                "id": 50406,
+                "title": "Yuan Long 3rd Season",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1740\/127733l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1416\/119528l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 44233,
-                "title": "Yinhe Zhi Xin",
+                "id": 49851,
+                "title": "Joshikousei to Mahou no Note",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1085\/128669l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 45649,
-                "title": "The First Slam Dunk",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 37096,
-                "title": "Puzzle & Dragon",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 51772,
-                "title": "Umayuru",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 52186,
-                "title": "Kin no Kuni Mizu no Kuni",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53414,
-                "title": "Lupin Zero",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1794\/131565l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 52289,
-                "title": "Kanojo, Okarishimasu 2nd Season Mini Anime",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 52601,
-                "title": "Onna no Sono no Hoshi",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 51116,
-                "title": "Kagami no Kojou",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 53672,
-                "title": "Violet Evergarden: Recollections",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1444\/117811l.jpg"
                 }
             }
         },
@@ -1693,26 +1932,108 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1803\/131345.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1803\/131345l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "20:00"
                 }
             }
         },
         {
             "node": {
-                "id": 53011,
-                "title": "Mamekichi Mameko NEET no Nichijou",
+                "id": 52601,
+                "title": "Onna no Sono no Hoshi",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1920\/127864l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1295\/128027l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 51155,
-                "title": "Cap Kakumei Bottleman DX",
+                "id": 53672,
+                "title": "Violet Evergarden: Recollections",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1699\/121192l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1220\/131436l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 37096,
+                "title": "Puzzle & Dragon",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1535\/95070l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "18:25"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52186,
+                "title": "Kin no Kuni Mizu no Kuni",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1872\/131491l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 30151,
+                "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/6\/72182l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other",
+                    "start_time": "06:45"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51772,
+                "title": "Umayuru",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1137\/123666l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 45649,
+                "title": "The First Slam Dunk",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1745\/129284l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 51390,
+                "title": "Xing Yu Siwan Nian",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 50240,
+                "title": "Da Li Si Rizhi 2nd Season",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818l.jpg"
                 }
             }
         },
@@ -1733,6 +2054,9 @@
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72127.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/11\/72127l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
                 }
             }
         },
@@ -1748,11 +2072,11 @@
         },
         {
             "node": {
-                "id": 53619,
-                "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu Mini Anime",
+                "id": 53766,
+                "title": "Jantama Pong\u2606 Special",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1200\/131642l.jpg"
                 }
             }
         },
@@ -1788,11 +2112,11 @@
         },
         {
             "node": {
-                "id": 35372,
-                "title": "Otoppe",
+                "id": 51116,
+                "title": "Kagami no Kojou",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/4\/85180l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1954\/129158l.jpg"
                 }
             }
         },
@@ -1818,21 +2142,48 @@
         },
         {
             "node": {
-                "id": 22669,
-                "title": "Gohan Kaijuu Pap",
+                "id": 53619,
+                "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu Mini Anime",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1256\/131169l.jpg"
                 }
             }
         },
         {
             "node": {
-                "id": 52198,
-                "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+                "id": 22669,
+                "title": "Gohan Kaijuu Pap",
                 "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060l.jpg"
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/13\/59289l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "other"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 18941,
+                "title": "Shimajirou no Wow!",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "monday",
+                    "start_time": "07:30"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52289,
+                "title": "Kanojo, Okarishimasu 2nd Season Mini Anime",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1890\/129843l.jpg"
                 }
             }
         },
@@ -1858,36 +2209,6 @@
         },
         {
             "node": {
-                "id": 50240,
-                "title": "Da Li Si Rizhi 2nd Season",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1375\/126818l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 51390,
-                "title": "Xing Yu Siwan Nian",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1176\/126778l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
-                "id": 18941,
-                "title": "Shimajirou no Wow!",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/9\/50737l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
                 "id": 49750,
                 "title": "Juedai Shuang Jiao",
                 "main_picture": {
@@ -1898,11 +2219,38 @@
         },
         {
             "node": {
+                "id": 52460,
+                "title": "Duel Masters Win",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "08:30"
+                }
+            }
+        },
+        {
+            "node": {
+                "id": 52198,
+                "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+                "main_picture": {
+                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060.jpg",
+                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1670\/130060l.jpg"
+                }
+            }
+        },
+        {
+            "node": {
                 "id": 38776,
                 "title": "Manul no Yuube",
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1980\/96936.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1980\/96936l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday"
                 }
             }
         },
@@ -1928,28 +2276,17 @@
         },
         {
             "node": {
-                "id": 52460,
-                "title": "Duel Masters Win",
-                "main_picture": {
-                    "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594.jpg",
-                    "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1836\/126594l.jpg"
-                }
-            }
-        },
-        {
-            "node": {
                 "id": 52935,
                 "title": "Punirunes",
                 "main_picture": {
                     "medium": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1246\/128731.jpg",
                     "large": "https:\/\/api-cdn.myanimelist.net\/images\/anime\/1246\/128731l.jpg"
+                },
+                "broadcast": {
+                    "day_of_the_week": "sunday",
+                    "start_time": "09:45"
                 }
             }
         }
-    ],
-    "paging": {},
-    "season": {
-        "year": 2022,
-        "season": "fall"
-    }
+    ]
 }
