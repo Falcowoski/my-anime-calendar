@@ -11,7 +11,7 @@ export default defineComponent({
 
   created() {
     // Skip this step if already has data in the Local Storage
-    if (localStorage.getItem('anime_season') !== undefined) {
+    if (!localStorage.getItem('anime_season')) {
       return;
     }
 
